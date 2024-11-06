@@ -1,2 +1,2 @@
-# Prepcourse-Henry-nuevo
-repositorio de prueba del modulo2 del prepcourse de henry
+Este proyecto es una prueba de como clonar un repositorio desde github a mi computadora.
+sheila lapaz
